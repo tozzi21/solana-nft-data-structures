@@ -34,13 +34,12 @@ Update Name
 
 Update URI
 ===
-./metaboss-ubuntu-latest update uri --keypair /home/thorsten/.config/solana/id.json --account 8RYXjuazz
-rgYkdpRBVSVdxKKkD5H4oD6EzC9RcmfFjsa --new-uri https://arweave.net/vA4uXyaHBa2kOJRrO6Stqppy326BgK-0No4P63KROmM -l debug
+./metaboss-ubuntu-latest update uri --keypair /home/thorsten/.config/solana/id.json --account 8RYXjuazzrgYkdpRBVSVdxKKkD5H4oD6EzC9RcmfFjsa --new-uri https://arweave.net/vA4uXyaHBa2kOJRrO6Stqppy326BgK-0No4P63KROmM -l debug
 
 Signing
 ===
 ./metaboss-ubuntu-latest sign one --keypair /home/thorsten/.config/solana/id.json --account 5copHM2D89Z9D7MD6JRDNwqkcVXcVGwxSNCZup7V1Jnn
-Tx sig: 2fkr55NPoZvn14EouKpBo6P3qzPAJJQ3M9zdTFRzKGZiiJ2cLCTtgB5kiHjHsqsWuyvYBywWVT8ZGscwkasSVrKX
+
 
 
 
