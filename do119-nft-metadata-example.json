@@ -1,0 +1,52 @@
+{
+  "name": "Lucis Cop #12",
+  "symbol": "DO12",
+  "description": "Armed Lucis Cops Weapons Upgrade",
+  "seller_fee_basis_points": 120,
+  "image": "https://arweave.net/AqI-oCiwfgElSYoG1AamKGVElL5eQolgqlortHzgjSM?ext=jpg",
+  "external_url": "http://protorealitygames.com/",
+  "edition": "2021",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Assertive"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "display_type": "Number",
+      "trait_type": "Sequence",
+      "value": 12
+    },
+    {
+      "trait_type": "Pointer",
+      "value": "DO119-LC12-WUP"
+    }
+  ],
+  "collection": {
+    "name": "D.O. 119 NFT GamingPack",
+    "family": "DO119"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://arweave.net/AqI-oCiwfgElSYoG1AamKGVElL5eQolgqlortHzgjSM?ext=jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+        "share": 100
+      }
+    ]
+  }
+}
