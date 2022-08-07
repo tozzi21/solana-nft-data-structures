@@ -1,0 +1,493 @@
+[
+  {
+    "mint": "8sSsorrDFL8YQvM6m4WEyMkjsdaeJs4FHK13ZRYTZXMj",
+    "address": "4RkRt8P7m51G7SXjBLiRd449q2kNvrkFkGSFCKmMrove",
+    "metadataPDA": "A4LA14j9W3ARyiLRMrcL8mVZFckvqaC6Dmbh5fVaEmpy",
+    "metadataOnchain": {
+      "key": 4,
+      "updateAuthority": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+      "mint": "8sSsorrDFL8YQvM6m4WEyMkjsdaeJs4FHK13ZRYTZXMj",
+      "data": {
+        "name": "DO119 #6489",
+        "symbol": "DO111\u0000\u0000\u0000\u0000\u0000",
+        "uri": "https://2x5o7i6glav3xrkfudbrt3tox6hmzigrrws44cgnqluvekug6y.arweave.net/1frvo8ZYK7vFRaDDGe5uv47MoNGNpc4IzYLp_UiqG9g",
+        "sellerFeeBasisPoints": 120,
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "verified": false,
+            "share": 100
+          }
+        ]
+      },
+      "primarySaleHappened": false,
+      "isMutable": true,
+      "editionNonce": 254,
+      "tokenStandard": 0,
+      "collection": null,
+      "uses": null
+    },
+    "metadataExternal": {
+      "name": "Lucis Cop #12",
+      "symbol": "DO12",
+      "description": "Armed Lucis Cops weapons pack",
+      "seller_fee_basis_points": 120,
+      "image": "https://arweave.net/AqI-oCiwfgElSYoG1AamKGVElL5eQolgqlortHzgjSM?ext=jpg",
+      "external_url": "http://protorealitygames.com/",
+      "edition": "2021",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Danger"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Assertive"
+        },
+        {
+          "display_type": "number",
+          "trait_type": "generation",
+          "value": 1
+        },
+        {
+          "display_type": "number",
+          "trait_type": " sequence",
+          "value": 12
+        }
+      ],
+      "properties": {
+        "category": "image",
+        "files": [
+          {
+            "uri": "https://arweave.net/AqI-oCiwfgElSYoG1AamKGVElL5eQolgqlortHzgjSM?ext=jpg",
+            "type": "image/jpg"
+          }
+        ],
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "share": 100
+          }
+        ]
+      }
+    },
+    "editionType": "MasterEditionV2",
+    "masterEditionPDA": "BaiQ7BsKrfcADb9ibaQVCG4j2X5cfZvb7YMJEv3vrd9y",
+    "masterEditionData": {
+      "key": 6,
+      "parent": "111111116HgC8KRBEhXYbF4riJyJFLSHt32XBnGw",
+      "edition": "00"
+    }
+  },
+  {
+    "mint": "8NWi8TNTGgucfqypKjF8okrfKFmzzLXnB1uag63M5x4t",
+    "address": "6v3Gqg1MMXnBeaJ2J7scSHQJg4vAeDA7gYTJecB7SkSp",
+    "metadataPDA": "CHujxogcvYRHq3fZd1QyyoynoRytErP2p1zme65nfhcS",
+    "metadataOnchain": {
+      "key": 4,
+      "updateAuthority": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+      "mint": "8NWi8TNTGgucfqypKjF8okrfKFmzzLXnB1uag63M5x4t",
+      "data": {
+        "name": "Lucis Cop #12",
+        "symbol": "DO12\u0000\u0000\u0000\u0000\u0000\u0000",
+        "uri": "https://arweave.net/5FR_B9p0ldssSYihtDbezDH-Qm68q3X8Age-XF7Srnw",
+        "sellerFeeBasisPoints": 120,
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "verified": true,
+            "share": 100
+          }
+        ]
+      },
+      "primarySaleHappened": false,
+      "isMutable": false,
+      "editionNonce": 251,
+      "tokenStandard": 3,
+      "collection": null,
+      "uses": null
+    },
+    "metadataExternal": {
+      "name": "Lucis Cop #12",
+      "symbol": "DO12",
+      "description": "Armed Lucis Cops Weapons Upgrade",
+      "seller_fee_basis_points": 120,
+      "image": "https://arweave.net/AqI-oCiwfgElSYoG1AamKGVElL5eQolgqlortHzgjSM?ext=jpg",
+      "external_url": "http://protorealitygames.com/",
+      "edition": "2021",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Danger"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Assertive"
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Generation",
+          "value": 1
+        },
+        {
+          "display_type": "Number",
+          "trait_type": "Sequence",
+          "value": 12
+        },
+        {
+          "trait_type": "Pointer",
+          "value": "DO119-LC12-WUP"
+        }
+      ],
+      "collection": {
+        "name": "D.O. 119 NFT GamingPack",
+        "family": "DO119"
+      },
+      "properties": {
+        "category": "image",
+        "files": [
+          {
+            "uri": "https://arweave.net/AqI-oCiwfgElSYoG1AamKGVElL5eQolgqlortHzgjSM?ext=jpg",
+            "type": "image/jpg"
+          }
+        ],
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "share": 100
+          }
+        ]
+      }
+    }
+  },
+  {
+    "mint": "5copHM2D89Z9D7MD6JRDNwqkcVXcVGwxSNCZup7V1Jnn",
+    "address": "6y3uJNLZ6bZgHwD4dgT8YvLWEYtovtsze3t1GPRAU1bA",
+    "metadataPDA": "HuyNRVXErSoRyu9ueCLbeAMrwhvpNq7Nhzssfhiz5ius",
+    "metadataOnchain": {
+      "key": 4,
+      "updateAuthority": "E184j2oxiCKp9sxfzCC2Q3uBcV2dbLYtyvwLnq1xUq9W",
+      "mint": "5copHM2D89Z9D7MD6JRDNwqkcVXcVGwxSNCZup7V1Jnn",
+      "data": {
+        "name": "TestNFT119",
+        "symbol": "P119\u0000\u0000\u0000\u0000\u0000\u0000",
+        "uri": "https://arweave.net/FPGAv1XnyZidnqquOdEbSY6_ES735ckcDTdaAtI7GFw",
+        "sellerFeeBasisPoints": 100,
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "verified": true,
+            "share": 100
+          }
+        ]
+      },
+      "primarySaleHappened": true,
+      "isMutable": false,
+      "editionNonce": 255,
+      "tokenStandard": 0,
+      "collection": null,
+      "uses": null
+    },
+    "metadataExternal": {
+      "name": "One",
+      "symbol": "TEST",
+      "description": "Two creators",
+      "seller_fee_basis_points": 100,
+      "external_url": "",
+      "edition": "",
+      "background_color": "000000",
+      "attributes": [
+        {
+          "trait_type": "Creators",
+          "value": "Two"
+        }
+      ],
+      "properties": {
+        "category": "image",
+        "creators": [
+          {
+            "address": "PanbgtcTiZ2PveV96t2FHSffiLHXXjMuhvoabUUKKm8",
+            "share": 100
+          }
+        ],
+        "files": [
+          {
+            "uri": "https://www.arweave.net/asDrJFykiui-kpJ-B3KhtV5fgA30hXB_5Q4yHqVmrOQ?ext=png",
+            "file_type": "image/png"
+          }
+        ]
+      },
+      "image": "https://www.arweave.net/asDrJFykiui-kpJ-B3KhtV5fgA30hXB_5Q4yHqVmrOQ?ext=png"
+    },
+    "editionType": "MasterEditionV2",
+    "masterEditionPDA": "7rAVMiNk67FscC59MoK2sYUjfBHeYg9h9nVAPinYMGU1",
+    "masterEditionData": {
+      "key": 6,
+      "parent": "111111116HgC8KRBEhXYbF4riJyJFLSHt32XBnGw",
+      "edition": "00"
+    }
+  },
+  {
+    "mint": "ZQB1o6eYai9NbAYdDwBFGDf3ooxtt1uvhvZcDjSgo3b",
+    "address": "CkfePHUTB1Xh8qmjUxxpLSegpfgCx38n7T4oVuPuCffz",
+    "metadataPDA": "GA1WBRdtgigqF8Dgt9gtzMyohdqc8rk3jZrHmAM9GFWg",
+    "metadataOnchain": {
+      "key": 4,
+      "updateAuthority": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+      "mint": "ZQB1o6eYai9NbAYdDwBFGDf3ooxtt1uvhvZcDjSgo3b",
+      "data": {
+        "name": "Droid Eagle Eye #18",
+        "symbol": "DO-D3-EA18",
+        "uri": "https://arweave.net/UjSUfsjEjJMmXqQP5GeoPNaFIYaAbzypkNKWYVA6JZw",
+        "sellerFeeBasisPoints": 120,
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "verified": true,
+            "share": 100
+          }
+        ]
+      },
+      "primarySaleHappened": false,
+      "isMutable": true,
+      "editionNonce": 255,
+      "tokenStandard": 0,
+      "collection": null,
+      "uses": null
+    },
+    "metadataExternal": {
+      "name": "Droid Eagle Eye #18",
+      "symbol": "DO-D3-EA18",
+      "description": "Droid Eagle Eye Inspection Vehicle",
+      "seller_fee_basis_points": 120,
+      "image": "https://arweave.net/F8wnn33C-Po3wlA-nhw1J1gh_mm6heKO_ocKAgBFADo?ext=jpg",
+      "external_url": "http://protorealitygames.com/",
+      "edition": "2021",
+      "attributes": [
+        {
+          "trait_type": "Capability",
+          "value": "X-Radar"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Detective"
+        },
+        {
+          "trait_type": "Pointer",
+          "value": "DO-D3-EA18"
+        }
+      ],
+      "do119internal": [
+        {
+          "dependency": "DO-V1-LC12",
+          "override": [
+            { "speed": 7 },
+            { "boost": 8 }
+          ]
+        }
+      ],
+      "collection": {
+        "name": "D.O. 119 NFT GamingPack",
+        "family": "DO119"
+      },
+      "properties": {
+        "category": "image",
+        "files": [
+          {
+            "uri": "https://arweave.net/F8wnn33C-Po3wlA-nhw1J1gh_mm6heKO_ocKAgBFADo?ext=jpg",
+            "type": "image/jpg"
+          }
+        ],
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "share": 100
+          }
+        ]
+      }
+    },
+    "editionType": "MasterEditionV2",
+    "masterEditionPDA": "BZedDhDhhVBCotjpkFRqiMSnaVPAWyhf7BH7LKSvWGcV",
+    "masterEditionData": {
+      "key": 6,
+      "parent": "11111111111111111111111111111111",
+      "edition": "00"
+    }
+  },
+  {
+    "mint": "2URK9cXHLdBwNc445kFCcRkC2mHznSZuxy1diVPPMZJe",
+    "address": "9anuwygGoPLk8ZEToAdU3ZoZioYxzRkSjziPJEbjCmJc",
+    "metadataPDA": "7iqH3haPtm61HmRhA9kpsMcg4U2KPrw7JWkm7cCmg8Wq",
+    "metadataOnchain": {
+      "key": 4,
+      "updateAuthority": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+      "mint": "2URK9cXHLdBwNc445kFCcRkC2mHznSZuxy1diVPPMZJe",
+      "data": {
+        "name": "Lucis Cop #12",
+        "symbol": "DO12\u0000\u0000\u0000\u0000\u0000\u0000",
+        "uri": "https://arweave.net/5FR_B9p0ldssSYihtDbezDH-Qm68q3X8Age-XF7Srnw",
+        "sellerFeeBasisPoints": 120,
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "verified": true,
+            "share": 100
+          }
+        ]
+      },
+      "primarySaleHappened": false,
+      "isMutable": true,
+      "editionNonce": 254,
+      "tokenStandard": 0,
+      "collection": null,
+      "uses": null
+    },
+    "metadataExternal": {
+      "name": "Lucis Cop #12",
+      "symbol": "DO12",
+      "description": "Armed Lucis Cops Weapons Upgrade",
+      "seller_fee_basis_points": 120,
+      "image": "https://arweave.net/AqI-oCiwfgElSYoG1AamKGVElL5eQolgqlortHzgjSM?ext=jpg",
+      "external_url": "http://protorealitygames.com/",
+      "edition": "2021",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Danger"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Assertive"
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Generation",
+          "value": 1
+        },
+        {
+          "display_type": "Number",
+          "trait_type": "Sequence",
+          "value": 12
+        },
+        {
+          "trait_type": "Pointer",
+          "value": "DO119-LC12-WUP"
+        }
+      ],
+      "collection": {
+        "name": "D.O. 119 NFT GamingPack",
+        "family": "DO119"
+      },
+      "properties": {
+        "category": "image",
+        "files": [
+          {
+            "uri": "https://arweave.net/AqI-oCiwfgElSYoG1AamKGVElL5eQolgqlortHzgjSM?ext=jpg",
+            "type": "image/jpg"
+          }
+        ],
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "share": 100
+          }
+        ]
+      }
+    },
+    "editionType": "MasterEditionV2",
+    "masterEditionPDA": "C892DB4pA6EEKzy6PZzpQ19oBvp2PUfR8DXgenCuCty2",
+    "masterEditionData": {
+      "key": 6,
+      "parent": "111111116HgC8KRBEhXYbF4riJyJFLSHt32XBnGw",
+      "edition": "00"
+    }
+  },
+  {
+    "mint": "CaLAuhbkukTCocmnDrubU75SMw56HJf9tpgsmay7rxA7",
+    "address": "8hngxrKPJk5PHrV35Lnk4FwG8EjZe7KQ7fUSXK1znfQB",
+    "metadataPDA": "CXt7mgauBRKwBkxRT22VSph8ERDJEqnG2mYGHfju1bmQ",
+    "metadataOnchain": {
+      "key": 4,
+      "updateAuthority": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+      "mint": "CaLAuhbkukTCocmnDrubU75SMw56HJf9tpgsmay7rxA7",
+      "data": {
+        "name": "Lucis Cop #12",
+        "symbol": "DO12\u0000\u0000\u0000\u0000\u0000\u0000",
+        "uri": "https://arweave.net/5FR_B9p0ldssSYihtDbezDH-Qm68q3X8Age-XF7Srnw",
+        "sellerFeeBasisPoints": 120,
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "verified": true,
+            "share": 100
+          }
+        ]
+      },
+      "primarySaleHappened": false,
+      "isMutable": true,
+      "editionNonce": 255,
+      "tokenStandard": 0,
+      "collection": null,
+      "uses": null
+    },
+    "metadataExternal": {
+      "name": "Lucis Cop #12",
+      "symbol": "DO12",
+      "description": "Armed Lucis Cops Weapons Upgrade",
+      "seller_fee_basis_points": 120,
+      "image": "https://arweave.net/AqI-oCiwfgElSYoG1AamKGVElL5eQolgqlortHzgjSM?ext=jpg",
+      "external_url": "http://protorealitygames.com/",
+      "edition": "2021",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Danger"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Assertive"
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Generation",
+          "value": 1
+        },
+        {
+          "display_type": "Number",
+          "trait_type": "Sequence",
+          "value": 12
+        },
+        {
+          "trait_type": "Pointer",
+          "value": "DO119-LC12-WUP"
+        }
+      ],
+      "collection": {
+        "name": "D.O. 119 NFT GamingPack",
+        "family": "DO119"
+      },
+      "properties": {
+        "category": "image",
+        "files": [
+          {
+            "uri": "https://arweave.net/AqI-oCiwfgElSYoG1AamKGVElL5eQolgqlortHzgjSM?ext=jpg",
+            "type": "image/jpg"
+          }
+        ],
+        "creators": [
+          {
+            "address": "6iSbmKmN1W86U82PYc36AzpN7A92ZGRiAKctpQ2Zt9SU",
+            "share": 100
+          }
+        ]
+      }
+    },
+    "editionType": "MasterEditionV2",
+    "masterEditionPDA": "7nskiLC5Mpi4rPKR9ZSYEJdLtbscHoBtQXkJywUkHr2r",
+    "masterEditionData": {
+      "key": 6,
+      "parent": "4uQeVj5tqViQh7yWWGStvkEG1Zmhx6uasJtWCJziofM",
+      "edition": "00"
+    }
+  }
+]

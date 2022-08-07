@@ -1,0 +1,22 @@
+{
+  "name": "D.O. 119 NFT GamingPack",
+  "symbol": "DO119",
+  "description": "Derivative Outstation 119 is a futuristic, dystopian story driven RPG battle game that takes place in the year 2131, 88 years after the collapse of central governments and world financial institutions.",
+  "seller_fee_basis_points": 120,
+  "image": "https://arweave.net/7lRiyxGgAQbBPnlg0fWJG8VcDj67pEHxU9bzaUque0Y",
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://arweave.net/7lRiyxGgAQbBPnlg0fWJG8VcDj67pEHxU9bzaUque0Y"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5Emo8JcdqVxdVzz1njBWby8aUefq7vkUHgAUQN3tswsK",
+        "share": 100
+      }
+    ]
+  }
+}
